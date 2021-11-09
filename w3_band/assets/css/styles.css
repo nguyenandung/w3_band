@@ -66,6 +66,7 @@ html {
     height: 46px;
     background-color: #000;
     z-index: 1;
+    overflow: hidden;
 }
 #nav {
     display: inline-block;
@@ -149,6 +150,7 @@ html {
     margin-top: 46px;
     padding-top: 50%;
     background: url("https://www.w3schools.com/w3images/chicago.jpg") top center / cover no-repeat;
+
 }
 #slider .text-content {
   position: absolute;
@@ -175,6 +177,7 @@ html {
     padding: 64px 0;
     margin-left: auto;
     margin-right: auto;
+
 }
 #content .section-heading {
     font-size: 30px;
